@@ -78,7 +78,7 @@ In Brightspace, we will also message you once each week with an update on how th
 
 # Materials  
 
-Here's a list of works ("assigned texts") we'll study in the course. You need to purchase only the first one (Bechdel's *Fun Home*). The rest are available either online or (as excerpts) in Brightspace. 
+Here's a list of works ("assigned texts") we'll study in the course. You need to purchase only the first one (Bechdel's *Fun Home*). The rest are available either online (public) or in Brightspace (private to the class). 
 
 * The graphic novel and memoir, [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (2006), by Alison Bechdel 
 * The collection of comics, [*Killing and Dying*](https://drawnandquarterly.com/killing-and-dying) (2015; excerpts), by Adrian Tomine    
@@ -93,11 +93,11 @@ Here's a list of works ("assigned texts") we'll study in the course. You need to
 
 If this ends up being too much for the term, then we'll cut material, or some of it will become optional. 
 
-We're also providing you with a "notebook" on contemporary media and fiction that will document material from lectures and discussions to, again, render that material as accessible as possible. The notebook will be circulated as a Word doc via Teams, and we will invite you to comment, converse, and ask questions in the margins. 
+We're also providing you with a "notebook" on contemporary media and fiction that will document material from lectures and discussions to, again, render that material, and what we're doing in class, as accessible as possible. The notebook will be circulated as a Word doc via Teams, and we will invite you to comment, converse, and ask questions in the margins. 
 
 To reiterate, then: the only text we're asking you to purchase is a copy of Bechdel's *Fun Home* (print or ebook), which is available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001). It's $25 new and $19 used. 
 
-You do not need to purchase any software for this course; however, you'll need access to the internet and a computer. We will use Brightspace and Teams, both provided by UVic. We will also use Zoom for office hours and appointments outside of class. 
+You do not need to purchase any software for this course; however, you'll need access to the internet and a computer. We will use Brightspace and Teams, both provided by UVic. We will also use Zoom for office hours as well as appointments outside of class.  
 
 # Schedule
 
