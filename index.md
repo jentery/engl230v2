@@ -56,7 +56,7 @@ We're asking you to complete two types of assignments this term:
 
 There are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either. Your fourth response to a prompt (submitted via Brightspace) will serve as your final exam in this course.  
 
-This approach to assignments means you'll need to submit something to Brightspace only four times this term (or five, if you revise). The worksheets will be circulated, completed, and submitted during class time (usually on Fridays). We hope this strategy will help us all to avoid feeling (less) overwhelmed this term. 
+This approach to assignments means you'll need to submit something to Brightspace only four times this term (or five, if you revise). The worksheets will be circulated, completed, and submitted during class time (usually on Fridays). We hope this strategy will help us all to avoid feeling (less) overwhelmed this Fall. 
 
 As for scheduling, you will know 40% of your final mark by Friday, October 17th; 70% by Tuesday, November 16th; and 80% by Wednesday, December 8th, before the final response to a prompt is due (on Tuesday, December 14th). And again, if you want to improve your mark, you'll have the opportunity to revise one response of your choice by Friday, December 3rd. (Your mark can only improve with revision.)
 
