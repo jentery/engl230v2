@@ -422,4 +422,6 @@ As researchers and instructors at the University of Victoria, we acknowledge and
 
 ***
 
+Many thanks to Yu-Hsuan Liou, Faith Ryan, and Ian Waddell, who taught previous iterations of this course with me. Thanks as well to Julie Funk and Stefan Higgins for providing feedback on the course materials, and to Faith for collaborating with me to develop the lectures and workshops.
+
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
