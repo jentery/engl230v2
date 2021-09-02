@@ -32,10 +32,10 @@ Please note: "media" in the title implies "audio, images, and text," not news or
 
 In this course, you'll learn to:
 
-* Develop a vocabulary for talking about media and fiction. 
-* Interpret audio, images, and text in the context of contemporary fiction. We'll practice various techniques for listening, watching, reading, and playing media.
-* Communicate critically with audio, images, and text. You'll have opportunities to practice composing across these media. 
-* Use media as forms of evidence in arguments and criticism. You'll learn to integrate audio, images, and even video alongside quotations in your writing about fiction.
+* Develop a vocabulary for approaching media in the context of fiction.  
+* Interpret what audio, images, and text do in fiction. We'll practice various techniques for watching, reading, playing, and listening to the stories people make with media. 
+* Communicate critically with audio, images, and text. You'll have opportunities to practice composing across these media, with an informed audience in mind. 
+* Use media as evidence in arguments and criticism. You will, for instance, integrate audio, images, and even video alongside quotations in your writing about fiction.
 
 Each of these four outcomes should apply to work across disciplines and occupations, regardless of your major at UVic. They are useful whenever you're interpreting media or writing for the web.
 
