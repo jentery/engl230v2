@@ -70,11 +70,11 @@ For details about what we will discuss and when, see the schedule below or visit
 
 # Workload
 
-The most important thing to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, then we'll cut materials, including assignments, as we go. We've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+The most important thing to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, or we need to return to zoomrooms, then we'll cut materials, including assignments. We've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
 
-We suggest dedicating 3 to 5 hours of study each week to this course, plus 3 hours for weekly meetings (TWF). To frame expectations and decrease overwork, we assign in the schedule (below) a number of recommended hours to each week of the course. We should note that 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+We suggest dedicating 3 to 5 hours of study each week to this course, plus 3 hours for weekly meetings (TWF). To frame expectations and decrease overwork, we assign in the schedule (see below) a number of recommended hours to each week of the course. We should note that 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
 
-In Brightspace, we will also message you once each week with an update on how the course is progressing and what you may wish to consider (or plan for) as we move forward (assignments, due dates, and whatnot).  
+In Brightspace, we will also message you once each week with an update on how the course is progressing and what you may wish to consider as we move forward (to plan for reading, assignments, due dates, and whatnot).  
 
 # Materials  
 
