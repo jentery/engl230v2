@@ -47,12 +47,16 @@ And my name is Madyson Huck (she / her / hers). I am a graduate student interest
 
 # Assignments
 
-We're asking you to complete two series of assignments this term:
+We're back to campus during COVID-19. These are complex and overwhelming times, so we'll try to keep this course as simple as possible. 
 
-* Respond (individually, outside of class time) briefly to four prompts through a combination of audio, images, and text. The prompts ask you to examine assigned materials from a critical perspective. Each response will constitute 20% of your final mark, and you'll have an opportunity to revise one of your first three responses to improve your grade. All four responses will be assessed based on rubrics provided in the prompts themselves, and you will submit each of them via Brightspace.  
-* Complete (in small groups, during class time) a series of worksheets that will address the foundations of media and literary studies. These exercises will be assessed somewhat generously based on a scale of "exceeds expectations," "meets expectations," "meets most expectations," "meets some expectations," "incomplete," and "not submitted." The worksheets will be marked in two bundles of four, and each bundle will constitute 10% of your final mark.  
+We're asking you to complete two types of assignments this term:
 
-There are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either. 
+* **Written responses to four prompts** (each 20% of your final mark): You'll respond (individually, outside of class time) briefly to four prompts through a combination of audio, images, and text. The prompts will ask you to examine assigned materials, with attention to detail, from a critical perspective. Each response will constitute 20% of your final mark, and you'll have an opportunity to revise one of your first three responses to improve your grade. All four responses will be assessed based on rubrics provided in the prompts themselves, and you will submit each of them via Brightspace. (Please do not submit them via email or in print.)  
+* **Eight worksheets** (totaling 20% of your final mark): You'll complete (in small groups, during class time) a series of worksheets that will address the foundations of media and literary studies. These exercises will be assessed somewhat generously based on a scale of "exceeds expectations," "meets expectations," "meets most expectations," "meets some expectations," "incomplete," and "not submitted." The worksheets will be marked in two bundles of four, and each bundle will constitute 10% of your final mark (for a total of 20%).  
+
+There are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either. Your fourth response to a prompt (submitted via Brightspace) will serve as your final exam in this course.  
+
+This approach to assignments means you'll need to submit something to Brightspace only four times this term (or five, if you revise). The worksheets will be circulated, completed, and submitted during class time (usually on Fridays). We hope this strategy will help us all to avoid feeling (less) overwhelmed this term. 
 
 As for scheduling, you will know 40% of your final mark by Friday, October 17th; 70% by Tuesday, November 16th; and 80% by Wednesday, December 8th, before the final response to a prompt is due (on Tuesday, December 14th). And again, if you want to improve your mark, you'll have the opportunity to revise one response of your choice by Friday, December 3rd. (Your mark can only improve with revision.)
 
