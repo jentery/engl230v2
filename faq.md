@@ -42,8 +42,6 @@ You'll learn to:
 
 We're back to campus during COVID-19. A lot is happening right now, so we're going to keep it simple to avoid feeling (more) overwhelmed.  
 
-We're asking you to complete two series of assignments this term:
-
 We're asking you to complete two types of assignments this term:
 
 * **Written responses to four prompts** (each 20% of your final mark): You'll respond (individually, outside of class time) briefly to four prompts through a combination of audio, images, and text. The prompts will ask you to examine assigned materials, with attention to detail, from a critical perspective. Each response will constitute 20% of your final mark, and you'll have an opportunity to revise one of your first three responses to improve your grade. All four responses will be assessed based on rubrics provided in the prompts themselves, and you will submit each of them via Brightspace. (Please do not submit them via email or in print.)  
