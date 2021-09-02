@@ -64,9 +64,9 @@ Due dates for the assignments are provided in the schedule below, the prompts wi
 
 # Structure
 
-We'll meet three days a week (TWF). A typical week will include a lecture on Tuesdays, large group discussion about a work of fiction on Wednesdays, and small group workshops on foundations, from interpreting media in the context in fiction to writing critically about media. Detailed notes will be provided in Teams for the purposes of accessibility and group discussion. If the notes are insufficient for the sake of access, then we will audio- or video-record lectures and discussions. Feedback on this approach is welcome along the way. 
+We'll meet three days a week (TWF). A typical week will include a lecture on Tuesday, a large group discussion about a work of fiction on Wednesday, and, on Friday, a small group workshop on foundations, from interpreting media in the context of fiction to writing critically about media. Detailed lecture notes will be provided in Teams for the purposes of accessibility and group discussion. If the notes are insufficient for the sake of access, then we will audio- or video-record lectures and discussions. Feedback on this approach is welcome from you along the way. 
 
-For details about what we will discuss and when, see the schedule below or visit the course Brightspace.  
+For details about what we will discuss and when, see the schedule below or visit the course Brightspace.
 
 # Workload
 
