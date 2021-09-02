@@ -364,7 +364,7 @@ There are no prerequisites for this 200-level English course.
 
 Responses to three prompts are required to pass this course. Failure to complete these three assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 
-We will use UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics assess your work. We do not post marks publicly or outside our offices, and we do not use plagiarism detection software.
+We will use UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. We will not post marks publicly or outside our offices, and we do not use plagiarism detection software.
 
 We will comment on each of your four responses to prompts. We will provide feedback on worksheets by appointment. 
 
