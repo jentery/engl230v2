@@ -238,7 +238,7 @@ This week should consume no more than five hours of your time outside of class.
 *Friday, October 22nd* 
 
 * Review and comment on the lecture notes for "Images, Part 1" in Teams. Maybe some doodles in the margins? 
-* Complete and submit Worksheet 4 in class. This worksheet will address the address the analysis of images in fiction. 
+* Complete and submit Worksheet 4 in class. This worksheet will address the analysis of images in fiction. 
 
 ## Week 8 (Oct. 26, 27 + 29): Images, Part 2 
 
