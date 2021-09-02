@@ -21,6 +21,7 @@ Contents:
 * [Schedule](#schedule)   
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement)   
+* [Syllabus in PDF](engl230syllabusFall2021.pdf) 
 
 # Description 
 
