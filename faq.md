@@ -85,7 +85,7 @@ My name is Jentery Sayers (he / him / his). I skip a syllable and say it in two:
 
 And my name is Madyson Huck (she / her /hers). I am a graduate student interested in Victorian periodicals, the digital humanities, and all things literary theory. I am a settler originally from Calgary, which is located on the traditional territories of the people of the Treaty 7 region in Southern Alberta. Through the course of this semester, I aim to leverage the skills from my BAs in English and Psychology, and my 5+ years of experience in the fields of mental health and leadership consulting to support your learning. You are welcome to contact me via email with questions, or if you are eager for in-person conversation, please know I am happy to chat before / after our scheduled sessions, too.
 
-## I Have Questions. 
+## I Have Questions and Concerns. 
 
 Please email them to me (Jentery). I'm happy to address them. I'm at [jentery@uvic.ca](mailto:jentery@uvic.ca), and I realize we're all juggling a lot (and are likely a bit nervous or anxious) right now. Don't hesitate to drop a line with any concerns you have. 
 
