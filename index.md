@@ -418,7 +418,7 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 
 # Territory Acknowledgement 
 
-As researchers and instructors at the University of Victoria, we acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University of Victoria stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples, whose historical relationships with the land continue to this day.
+As researchers and instructors at the University of Victoria, we acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples, whose historical relationships with the land continue to this day.
 
 ***
 
