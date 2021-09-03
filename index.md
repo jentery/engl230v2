@@ -369,6 +369,10 @@ We will use UVic's [official grading system](https://www.uvic.ca/calendar/underg
 
 We will comment on each of your four responses to prompts. We will provide feedback on worksheets by appointment. 
 
+### Attendance 
+
+Medical documentation for short-term absences is not required for the Fall 2021 term (approved by Senate). If you need access to course materials due to absence, and you find that the access we are providing is insufficient, then please let us know, and we will improve our approach.  
+
 ### Late Submissions and Extensions
 
 If you need to request an extension or you're concerned about the possibility of a late submission, then please email me (Jentery). I understand that extensions may be necessary for numerous reasons, especially right now.  
