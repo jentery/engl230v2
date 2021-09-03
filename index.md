@@ -300,7 +300,7 @@ This week should consume no more than four hours of your time outside of class.
 
 *Wednesday, November 17th* 
 
-* Review and comment on the lecture notes for "Text, Part 2" in Teams. We'll might cook up our own fan fiction there. 
+* Review and comment on the lecture notes for "Text, Part 2" in Teams. We might cook up our own fan fiction there. 
 * Expect a large group discussion of *The Fifth Season* (first two chapters).  
 
 *Friday, November 19th* 
