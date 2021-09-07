@@ -197,3 +197,24 @@ This week should consume no more than five hours of your time outside of class.
 
 * Submit your response to Prompt 2 via Brightspace. 
 * Expect a workshop on integrating audio into your writing and criticism.
+
+## Week 6 (Oct. 12, 13 + 15): Audio, Part 2 
+
+This week should consume no more than three hours of your time outside of class. 
+
+*Tuesday, October 12th* 
+
+* Play or watch the Fullbright Company's [*Gone Home*](https://gonehome.game/).
+* Expect a lecture further elaborating on the foundations of audio in fiction. 
+
+*Wednesday, October 13th* 
+
+* Review and comment on the lecture notes for "Audio, Part 2" in Word 365. Maybe we'll share playlists and mixtapes? 
+* Expect a large group discussion of *Gone Home*. 
+
+*Friday, October 15th* 
+
+* Expect a workshop on the analysis of audio in fiction. 
+* We will return marks for Prompt 2 by this class meeting.  
+
+Please note that Monday, October 11th is Thanksgiving Day, and Tuesday, October 12th is the last day for 50% reduction of tuition fees for standard courses.  
