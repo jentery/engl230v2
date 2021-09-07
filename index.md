@@ -73,3 +73,26 @@ The most important thing to know about this course is that **we'll opt for care 
 We suggest dedicating 3 to 5 hours of study each week to this course, plus 3 hours for weekly meetings (TWF). To frame expectations and decrease overwork, we assign in the schedule (see below) a number of recommended hours to each week of the course. We should note that 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
 
 In Brightspace, we will also message you once each week with an update on how the course is progressing and what you may wish to consider as we move forward (to plan for reading, assignments, due dates, and whatnot).
+
+# Materials  
+
+Here's a list of works ("assigned texts") we'll study in the course. You need to purchase only the first one (Bechdel's *Fun Home*). The rest are available either online (public) or in Brightspace (private to the class). 
+
+* The graphic novel and memoir, [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (2006), by Alison Bechdel 
+* The collection of comics, [*Killing and Dying*](https://drawnandquarterly.com/killing-and-dying) (2015; excerpts), by Adrian Tomine    
+* The speculative fictions, ["Message in a Bottle"](https://tachyonpublications.com/product/falling-love-hominids/) (2004), by Nalo Hopkinson, and [*The Fifth Season*](https://www.orbitbooks.net/orbit-excerpts/the-fifth-season/) (2015; excerpts), by N.K. Jemisin  
+* Experimental fiction such as [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014), by Porpentine Charity Heartscape and Brenda Neotenomie, and [*THE M00D OF THE MOMENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007), by Young-Hae Chang Heavy Industries
+* The animated short film, [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (2018), by Amanda Strong and Leanne Betasamosake Simpson 
+* The role-playing game, [*Undertale*](https://undertale.com/) (2015), by Toby Fox and Temmie Chang
+* The platforming game, [*Celeste*](http://www.celestegame.com/) (2018), by Extremely Ok
+* The first-person game, [*Gone Home*](https://gonehome.game/) (2013), by the Fullbright Company 
+* The adventure puzzle game, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014), by Marina Kittaka 
+* The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth 
+
+If this ends up being too much for the term, then we'll cut material, or some of it will become optional. 
+
+We're also providing you with a "notebook" on contemporary media and fiction that will document material from lectures and discussions to, again, render that material, and what we're doing in class, as accessible as possible. The notebook will be circulated as a Word 365 doc, and we will invite you to comment, converse, and ask questions in the margins. 
+
+To reiterate, then: the only text we're asking you to purchase is a copy of Bechdel's *Fun Home* (print or ebook), which is available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001). It's $25 new and $19 used. 
+
+You do not need to purchase any software for this course; however, you'll need access to the internet and a computer. We will use Brightspace and Word for Office 365, both provided by UVic. We will also use Zoom for office hours as well as appointments outside of class.  
