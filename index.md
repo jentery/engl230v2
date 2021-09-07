@@ -59,3 +59,9 @@ Each response will be assessed based on a rubric provided in the prompt itself, 
 This all means there are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either. 
 
 As for scheduling, you will know 50% of your final mark by Friday, October 15th and 75% by Tuesday, November 16th. Optional revisions to one response will be due by Friday, December 3rd, and your final response to a prompt will be due by Tuesday, December 14th (during the exam period).
+
+# Structure
+
+We'll meet three days a week (TWF). A typical week will include a lecture on Tuesday, a large group discussion about a work of fiction on Wednesday, and, on Friday, a workshop on foundations of media and literary studies, including writing with media. Detailed lecture notes will be provided online in Word for Office 365 for the purposes of accessibility and group discussion. If the notes are insufficient for the sake of access, then we will audio- or video-record lectures and discussions. Feedback on this approach is welcome from you along the way. 
+
+For details about what we will discuss and when, see the schedule below or visit the course Brightspace.
