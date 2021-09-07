@@ -65,3 +65,11 @@ As for scheduling, you will know 50% of your final mark by Friday, October 15th 
 We'll meet three days a week (TWF). A typical week will include a lecture on Tuesday, a large group discussion about a work of fiction on Wednesday, and, on Friday, a workshop on foundations of media and literary studies, including writing with media. Detailed lecture notes will be provided online in Word for Office 365 for the purposes of accessibility and group discussion. If the notes are insufficient for the sake of access, then we will audio- or video-record lectures and discussions. Feedback on this approach is welcome from you along the way. 
 
 For details about what we will discuss and when, see the schedule below or visit the course Brightspace.
+
+# Workload
+
+The most important thing to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, or we need to return to zoomrooms, then we'll cut materials. We've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+
+We suggest dedicating 3 to 5 hours of study each week to this course, plus 3 hours for weekly meetings (TWF). To frame expectations and decrease overwork, we assign in the schedule (see below) a number of recommended hours to each week of the course. We should note that 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+
+In Brightspace, we will also message you once each week with an update on how the course is progressing and what you may wish to consider as we move forward (to plan for reading, assignments, due dates, and whatnot).
