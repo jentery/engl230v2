@@ -349,3 +349,83 @@ This final assignment should consume no more than five hours of your time.
 
 * Submit your response to Prompt 4 via Brightspace. 
 * Enjoy your holiday! 
+
+# Policies 
+
+### Prerequisites 
+
+There are no prerequisites for this 200-level English course. 
+  
+### Assessment and Feedback
+
+Responses to two prompts are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+
+We will use UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. We will not post marks publicly or outside our offices, and we do not use plagiarism detection software.
+
+We will comment on each of your four responses to prompts.
+
+### Attendance 
+
+Medical documentation for short-term absences is not required for the Fall 2021 term (approved by Senate). If you need access to course materials due to absence, and you find that the access we are providing is insufficient, then please let us know, and we will improve our approach.  
+
+### Late Submissions and Extensions
+
+If you need to request an extension or you're concerned about the possibility of a late submission, then please email me (Jentery). I understand that extensions may be necessary for numerous reasons, especially right now.  
+
+### Communications 
+
+The best way to communicate with me (Jentery) is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) and via Zoom, either by appointment or during my office hours, which are Wednesdays, 12 - 1pm. You can also communicate with Madyson by email and via Zoom (by appointment). 
+
+We respond to work email between 9am and 5pm, Monday through Friday, excluding holidays. 
+
+### Learning Climate  
+
+The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me (Jentery) immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
+
+### Academic Integrity  
+
+We are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student course work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. We do not use software to detect plagiarism in essays or any other assignments.
+
+### Copyright 
+
+All course materials, including this course outline, are made available for educational purposes and for the exclusive use of students in this course. The material is protected under copyright law, even if not marked as such. The syllabus itself is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
+
+### Accessibility and Accommodation 
+
+Students with diverse learning styles and needs are welcome in this course. If you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate accommodations. Please note that you do not need to, and are by no means expected to, disclose disability or health considerations to us for the purposes of accommodations. 
+
+### University of Victoria Students’ Society (UVSS)
+
+The UVSS is a social-justice-based non-profit run by students, for students, and is separate from UVic. As an undergrad student, you are already a member. UVSS works on issues affecting students, such as affordability, public transit, sexualized violence, sustainability, student employment, and much more. They fund clubs and course unions, and have several advocacy groups. They also have a Food Bank and Free Store, a Peer Support Centre, and run your health and dental plan. They are here to support you. Reach out to them at uvss.ca.
+
+### Diversity and Inclusion 
+
+We want to create a learning environment that supports a diversity of thoughts, perspectives, and experiences, and also honours your identities (including race, gender, class, sexuality, religion, and ability). Integrating a diverse set of experiences is important for a more comprehensive understanding of the course content. We (like many people) are still in the process of learning about diverse perspectives and identities. If something is said in class (by anyone, including us) that makes you feel uncomfortable, don't hesitate to talk with us. If you have a name and/or set of pronouns that differ from those that appear in your university records, please let us know. If you feel like your performance in the class is being impeded by your experiences outside of class, please don't hesitate to talk with us. We want to be a resource for you. You can also submit anonymous feedback, which, with your permission, we may use to make a general announcement to the course. If you prefer to speak with someone outside of the course, you may contact Michael Nowlin (Chair, Department of English). Finally, please contact us or submit anonymous feedback if you have any suggestions to improve the quality of the course materials, the class environment, and the instruction / pedagogy.
+
+(Language for this policy was drawn from the Harriet W. Sheridan Center for Teaching and Learning at Brown University, and from the work of Monica Linden, in particular.)
+
+### Online Conduct 
+
+The University of Victoria is committed to promoting critical academic discourse while providing a respectful and supportive learning environment. All members of the university community have the right to this experience and the responsibility to help create such an environment. The University will not tolerate racism, sexualized violence, or any form of discrimination, bullying, or harassment. 
+
+Please be advised that, by logging into UVic's learning systems and interacting with online resources (Brightspace, Zoom, Office 365), you are engaging in a university activity. All interactions within this environment are subject to university expectations and policies. Any concerns about student conduct may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca). 
+
+### Basic Needs 
+
+We want you to thrive in this course and everywhere else. Please let us know as early as possible if you have any concerns or if you require any assistance to succeed. We'll do our best to help.
+
+UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. We offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which you may contact by phone. 
+
+The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this course, but they're still important.
+
+(Language for this policy was drawn from the work of Richard Pickard.)
+
+# Territory Acknowledgement 
+
+As researchers and instructors at the University of Victoria, we acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples, whose historical relationships with the land continue to this day.
+
+***
+
+Many thanks to Yu-Hsuan Liou, Faith Ryan, and Ian Waddell, who taught previous iterations of this course with me. Thanks as well to Julie Funk and Stefan Higgins for providing feedback on the course materials, and to Faith for collaborating with me to develop the lectures and workshops.
+
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
