@@ -218,3 +218,22 @@ This week should consume no more than three hours of your time outside of class.
 * We will return marks for Prompt 2 by this class meeting.  
 
 Please note that Monday, October 11th is Thanksgiving Day, and Tuesday, October 12th is the last day for 50% reduction of tuition fees for standard courses.  
+
+## Week 7 (Oct. 19, 20 + 22): Images, Part 1 
+
+This week should consume no more than five hours of your time outside of class. 
+
+*Tuesday, October 19th* 
+
+* Read at least the first half of Alison Bechdel's [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/).
+* Expect a lecture on the foundations of addressing images in fiction. 
+
+*Wednesday, October 20th* 
+
+* Finish [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/).
+* Expect a large group discussion of *Fun Home*.  
+
+*Friday, October 22nd* 
+
+* Review and comment on the lecture notes for "Images, Part 1" in Word 365. Maybe some doodles in the margins? 
+* Expect a workshop on the analysis of images in fiction. 
