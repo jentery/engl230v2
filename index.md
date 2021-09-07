@@ -237,3 +237,24 @@ This week should consume no more than five hours of your time outside of class.
 
 * Review and comment on the lecture notes for "Images, Part 1" in Word 365. Maybe some doodles in the margins? 
 * Expect a workshop on the analysis of images in fiction. 
+
+## Week 8 (Oct. 26, 27 + 29): Images, Part 2 
+
+This week should consume no more than three hours of your time outside of class. 
+
+*Tuesday, October 26th* 
+
+* Read a story in Adrian Tomine's *Killing and Dying* (available in Brightspace). 
+* Expect a lecture further elaborating on the foundations of addressing images in fiction.  
+
+*Wednesday, October 27th* 
+
+* Review and comment on the lecture notes for "Images, Part 2" in Word 365. We'll respond with heavily captioned panels.  
+* Review Prompt 3 in Brightspace and share your questions or concerns with us. A response to Prompt 3 is due next week, by Friday, November 5th.   
+* Expect a large group discussion of *Killing and Dying*. 
+
+*Friday, October 29th* 
+
+* Expect a workshop on integrating images into your writing and criticism. 
+
+Please note that Sunday, October 31st is the last day for withdrawing from first term courses without penalty of failure.
