@@ -40,26 +40,25 @@ You'll learn to:
 
 ## What Are the Assignments? 
 
-We're back to campus during COVID-19. A lot is happening right now, so we're going to keep it simple to avoid feeling (more) overwhelmed.  
+We're back to campus during COVID-19. These are complex and overwhelming times, so we'll try to keep this course as simple as possible. 
 
-We're asking you to complete two types of assignments this term:
+We're asking you to complete only **four assignments** this term, each **25%** of your final mark. You'll have an opportunity to **revise one** of your first three assignments to improve your grade. (Your mark can only improve with revision.)
 
-* **Written responses to four prompts** (each 20% of your final mark, totaling 80%): You'll respond (individually, outside of class time) briefly to four prompts through a combination of audio, images, and text. The prompts will ask you to examine assigned materials, with attention to detail, from a critical perspective. Each response will constitute 20% of your final mark, and you'll have an opportunity to revise one of your first three responses to improve your grade. All four responses will be assessed based on rubrics provided in the prompts themselves, and you will submit each of them via Brightspace. (Please do not submit them via email or in print.)  
-* **Eight worksheets** (totaling 20% of your final mark): You'll complete (in small groups, during class time) a series of worksheets that will address the foundations of media and literary studies. These exercises will be assessed somewhat generously based on a scale of "exceeds expectations," "meets expectations," "meets most expectations," "meets some expectations," "incomplete," and "not submitted." The worksheets will be marked in two bundles of four, and each bundle will constitute 10% of your final mark (for a total of 20%).  
+For each assignment, you will respond briefly to a prompt (available in Brightspace) through a combination of audio, images, and/or text. The prompt will ask you to examine assigned materials, with attention to detail, from a critical perspective. It will also provide you with options (choose your own adventure!) for how to respond. 
 
-There are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either.
+Each response will be assessed based on a rubric provided in the prompt itself, and you will submit all four responses via Brightspace. 
 
-This approach to assignments means you'll need to submit something to Brightspace only four times this term (or five, if you revise).
+This all means there are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either. 
 
 ## What's the Workload Like? 
 
-The most important thing to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, or we need to return to zoomrooms, then we'll cut materials, including assignments. 
+The most important thing to know about this course is that **we'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, or we need to return to zoomrooms, then we'll cut materials. 
 
 We suggest dedicating 3 to 5 hours of study each week to this course, plus 3 hours for weekly meetings (TWF). To frame expectations and decrease overwork, we assign in the schedule a number of recommended hours to each week of the course.
 
 ## What Will We Do in Class? 
 
-We'll meet three days a week (TWF). A typical week will include a lecture on Tuesday, a large group discussion about a work of fiction on Wednesday, and, on Friday, a small group workshop on foundations, from interpreting media in the context of fiction to writing critically about media. Detailed lecture notes will be provided in Teams for the purposes of accessibility and group discussion. 
+We'll meet three days a week (TWF). A typical week will include a lecture on Tuesday, a large group discussion about a work of fiction on Wednesday, and, on Friday, a workshop on foundations of media and literary studies, including writing with media. Detailed lecture notes will be provided in Word for Office 365 for the purposes of accessibility and group discussion. 
 
 ## Is The Syllabus Available? 
 
