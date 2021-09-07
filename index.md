@@ -96,3 +96,22 @@ We're also providing you with a "notebook" on contemporary media and fiction tha
 To reiterate, then: the only text we're asking you to purchase is a copy of Bechdel's *Fun Home* (print or ebook), which is available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001). It's $25 new and $19 used. 
 
 You do not need to purchase any software for this course; however, you'll need access to the internet and a computer. We will use Brightspace and Word for Office 365, both provided by UVic. We will also use Zoom for office hours as well as appointments outside of class. 
+
+# Schedule
+
+Here's the schedule for the term. It's subject to change, but we will use a Brightspace announcement to notify you at least two weeks in advance of any changes. In Brightspace, we will also update you each week on how the course is progressing. 
+
+## Week 1 (Sept. 8 + 10): Welcome! 
+
+This week should consume no more than an hour of your time outside of class. 
+
+*Wednesday, September 8th*
+
+* There's no need to prep for our first meeting. We'll introduce ourselves and talk about the course. 
+* Consider purchasing a copy of [*Fun Home*](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001), if you've not already. 
+
+*Friday, September 10th* 
+
+* Take a moment to scan the course outline and review the course policies. 
+* Email us any questions or concerns you have about the course. 
+* Expect a general introduction to media and fiction during this session.
