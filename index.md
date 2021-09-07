@@ -283,3 +283,22 @@ This week should consume no more than five hours of your time outside of class.
 Step away from the course and take a break this week. There's no class on Tuesday, November 9th, and Reading Break is November 10th - 12th. 
 
 Please note that Thursday, November 11th is Remembrance Day. 
+
+## Week 11 (Nov. 16, 17 + 19): Text, Part 2 
+
+This week should consume no more than four hours of your time outside of class. 
+
+*Tuesday, November 16th* 
+
+* Read excerpts of N.K. Jemisin's *The Fifth Season* (in Brightspace).
+* Expect a lecture further elaborating on the modern foundations of addressing text in fiction. 
+* We will return marks for Prompt 3 by this class meeting.
+
+*Wednesday, November 17th* 
+
+* Review and comment on the lecture notes for "Text, Part 2" in Word 365. We might cook up our own fan fiction there. 
+* Expect a large group discussion of *The Fifth Season* (first two chapters).  
+
+*Friday, November 19th* 
+
+* Expect a workshop on integrating text into your writing and criticism.
