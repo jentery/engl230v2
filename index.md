@@ -101,7 +101,7 @@ You do not need to purchase any software for this course; however, you'll need a
 
 Here's the schedule for the term. It's subject to change, but we will use a Brightspace announcement to notify you at least two weeks in advance of any changes. In Brightspace, we will also update you each week on how the course is progressing. 
 
-## Week 1 (Sept. 8 + 10): Welcome! 
+## Week 1 (Sept. 8 + 10): Hello! 
 
 This week should consume no more than an hour of your time outside of class. 
 
