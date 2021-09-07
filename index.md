@@ -340,3 +340,12 @@ This week should consume no more than five hours of your time outside of class.
 * Submit your revised response to Prompt 1, 2, or 3 (optional). 
 * Expect a recap of what we learned this term as well as some time to complete course experience surveys.   
 * We will return marks for revised responses by Wednesday, December 8th. 
+
+## Exam Period 
+
+This final assignment should consume no more than five hours of your time. 
+
+*Tuesday, December 14th* 
+
+* Submit your response to Prompt 4 via Brightspace. 
+* Enjoy your holiday! 
