@@ -179,3 +179,21 @@ This week should consume no more than three hours of your time outside of class.
 
 Please note that Thursday, September 30th is National Day for Truth and Reconciliation.
 
+## Week 5 (Oct. 5, 6 + 8): Audio, Part 1 
+
+This week should consume no more than five hours of your time outside of class. 
+
+*Tuesday, October 5th* 
+
+* Listen to Janina Matthewson and Jeffrey Cranor's [*Within the Wires*](http://www.nightvalepresents.com/withinthewires), Season 1, Episode 1.
+* Expect a lecture on the foundations of addressing audio in fiction. 
+
+*Wednesday, October 6th* 
+
+* Review and comment on the lecture notes for "Audio, Part 1" in Word 365. We'll listen to your thoughts in the margins.  
+* Expect a large group discussion of *Within the Wires*. 
+ 
+*Friday, October 8th* 
+
+* Submit your response to Prompt 2 via Brightspace. 
+* Expect a workshop on integrating audio into your writing and criticism.
