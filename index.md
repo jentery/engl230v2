@@ -135,3 +135,24 @@ This week should consume no more than three hours of your time outside of class.
 *Friday, September 17th* 
 
 * Expect a workshop on ways to understand media in the context of fiction. 
+
+## Week 3 (Sept. 21, 22 + 24): Media Aesthetics, Part 1  
+
+This week should consume no more than five hours of your time outside of class. 
+
+*Tuesday, September 21st* 
+
+* Read Nalo Hopkinson's "Message in a Bottle" (available in Brightspace).
+* Expect a lecture on the "apprehension" and "comprehension" of media in the context of fiction. 
+
+*Wednesday, September 22nd* 
+
+* Review and comment on the lecture notes for "Media Aesthetics, Part 1" in Teams. We may even respond with more questions there. 
+* Expect a large group discussion of "Message in a Bottle."
+
+*Friday, September 24th* 
+
+* Submit your response to Prompt 1 via Brightspace. 
+* Expect a workshop on integrating media (audio, images, and text) into your writing and criticism. 
+
+Please note that September 21st is the last day for 100% reduction of tuition fees for standard first term and full year courses, and Friday, September 25th is the last day for adding courses that begin in the first term.
