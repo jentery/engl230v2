@@ -258,3 +258,28 @@ This week should consume no more than three hours of your time outside of class.
 * Expect a workshop on integrating images into your writing and criticism. 
 
 Please note that Sunday, October 31st is the last day for withdrawing from first term courses without penalty of failure.
+
+## Week 9 (Nov. 2, 3 + 5): Text, Part 1 
+
+This week should consume no more than five hours of your time outside of class. 
+
+*Tuesday, November 2nd* 
+
+* Play or watch Toby Fox and Temmie Chang's [*Undertale*](https://undertale.com/). 
+* Expect a lecture on the modern foundations of addressing text in fiction. 
+
+*Wednesday, November 3rd* 
+
+* Review and comment on the lecture notes for "Text, Part 1" in Word 365. We'll respond in Papyrus or Sans there. 
+* Expect a large group discussion of *Undertale*. 
+
+*Friday, November 5th* 
+
+* Submit your response to Prompt 3 via Brightspace.
+* Expect a workshop on analyzing the use of text in contemporary fiction.  
+
+## Week 10 (Nov. 9, 10, and 12): Buffering . . . 
+
+Step away from the course and take a break this week. There's no class on Tuesday, November 9th, and Reading Break is November 10th - 12th. 
+
+Please note that Thursday, November 11th is Remembrance Day. 
