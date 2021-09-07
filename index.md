@@ -128,7 +128,7 @@ This week should consume no more than three hours of your time outside of class.
 
 *Wednesday, September 15th* 
 
-* Review and comment on the lecture notes for "Why Media?" in Teams. We'll be sure to answer your questions there. 
+* Review and comment on the lecture notes for "Why Media?" in Word 365. We'll be sure to answer your questions there. 
 * Review Prompt 1 in Brightspace and share your questions or concerns with us. A response to Prompt 1 is due next week, by Friday, September 24th. 
 * Expect a large group discussion about *THE M00D 0F THE M0MENT* and *Secrets Agent*. 
 
@@ -147,7 +147,7 @@ This week should consume no more than five hours of your time outside of class.
 
 *Wednesday, September 22nd* 
 
-* Review and comment on the lecture notes for "Media Aesthetics, Part 1" in Teams. We may even respond with more questions there. 
+* Review and comment on the lecture notes for "Media Aesthetics, Part 1" in Word 365. We may even respond with more questions there. 
 * Expect a large group discussion of "Message in a Bottle."
 
 *Friday, September 24th* 
@@ -156,3 +156,26 @@ This week should consume no more than five hours of your time outside of class.
 * Expect a workshop on integrating media (audio, images, and text) into your writing and criticism. 
 
 Please note that September 21st is the last day for 100% reduction of tuition fees for standard first term and full year courses, and Friday, September 25th is the last day for adding courses that begin in the first term.
+
+## Week 4 (Sept. 28 + 29 and Oct. 1): Media Aesthetics, Part 2
+
+This week should consume no more than three hours of your time outside of class.
+
+*Tuesday, September 28th*
+
+* Watch Amanda Strong and Leanne Betasamosake Simpson's [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8).
+* Expect a lecture on the "synthesis" and "evaluation" of media in the context of fiction. 
+
+*Wednesday, September 29th* 
+
+* Review and comment on the lecture notes for "Media Aesthetics, Part 2" in Word 365. We'll strike up a conversation there. 
+* Review Prompt 2 in Brightspace and share your questions or concerns with us. A response to Prompt 2 is due next week, by Friday, October 10th. 
+* Expect a large group discussion of *Biidaaban (The Dawn Comes)*.   
+
+*Friday, October 1st* 
+
+* Expect a workshop on the application of media aesthetics as a methodology.  
+* We will return marks for Prompt 1 prior to this class meeting.  
+
+Please note that Thursday, September 30th is National Day for Truth and Reconciliation.
+
