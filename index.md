@@ -115,3 +115,23 @@ This week should consume no more than an hour of your time outside of class.
 * Take a moment to scan the course outline and review the course policies. 
 * Email us any questions or concerns you have about the course. 
 * Expect a general introduction to media and fiction during this session.
+
+## Week 2 (Sept. 14, 15 + 17): Why Media? 
+
+This week should consume no more than three hours of your time outside of class. 
+
+*Tuesday, September 14th*
+
+* Watch Young-Hae Chang Heavy Industries' [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html). 
+* Play Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent).
+* Expect a lecture about ways to understand media in the context of fiction. 
+
+*Wednesday, September 15th* 
+
+* Review and comment on the lecture notes for "Why Media?" in Teams. We'll be sure to answer your questions there. 
+* Review Prompt 1 in Brightspace and share your questions or concerns with us. A response to Prompt 1 is due next week, by Friday, September 24th. 
+* Expect a large group discussion about *THE M00D 0F THE M0MENT* and *Secrets Agent*. 
+
+*Friday, September 17th* 
+
+* Expect a workshop on ways to understand media in the context of fiction. 
