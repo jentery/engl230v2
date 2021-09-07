@@ -302,3 +302,21 @@ This week should consume no more than four hours of your time outside of class.
 *Friday, November 19th* 
 
 * Expect a workshop on integrating text into your writing and criticism.
+
+## Week 12 (Nov. 23, 24 + 26): Action, Part 1 
+
+This week should consume no more than four hours of your time outside of class. 
+
+*Tuesday, November 23rd* 
+
+* Read (or play?) Porpentine Charity Heartscape and Brenda Neotenomie's [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive). 
+* Expect a lecture on the foundations of addressing action and interfaces in the context of fiction.  
+
+*Wednesday, November 24th* 
+
+* Review and comment on the lecture notes for "Action, Part 1" in Word 365. We might drop some hyperlinks there. 
+* Expect a large group discussion of *With Those We Love Alive*. 
+
+*Friday, November 26th* 
+
+* Expect a workshop on the analysis of action (as input, output, and feedback) in fiction. 
