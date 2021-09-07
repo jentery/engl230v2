@@ -320,3 +320,23 @@ This week should consume no more than four hours of your time outside of class.
 *Friday, November 26th* 
 
 * Expect a workshop on the analysis of action (as input, output, and feedback) in fiction. 
+
+## Week 13 (Nov. 30 + Dec. 1 + 3): Action, Part 2
+
+This week should consume no more than five hours of your time outside of class. 
+
+*Tuesday, November 30th* 
+
+* Play or watch Extremely Ok's [*Celeste*](http://www.celestegame.com/).
+* Expect a lecture further elaborating on the foundations of addressing action in fiction as well as a large group discussion of *Celeste*.  
+
+*Wednesday, December 1st* 
+
+* Review and comment on the lecture notes for "Action, Part 2" in Word 365. We'll dash from word to word, comment to comment.
+* Expect a workshop on integrating action into your writing and criticism. 
+
+*Friday, December 3rd* 
+
+* Submit your revised response to Prompt 1, 2, or 3 (optional). 
+* Expect a recap of what we learned this term as well as some time to complete course experience surveys.   
+* We will return marks for revised responses by Wednesday, December 8th. 
