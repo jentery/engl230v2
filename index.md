@@ -45,3 +45,17 @@ Each of these four outcomes should apply to work across disciplines and occupati
 My name is Jentery Sayers (he / him / his). I skip a syllable and say it in two: “JEN-tree.” I spend 12.67% of the day looking for my glasses, and I enjoy writing about prototypes and experimental fiction. I grew up in Richmond, Virginia and went to VCU for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from UW. I've been at UVic, on lək̓ʷəŋən and <u>W</u>SÁNEĆ territories, since 2011. I teach courses in English and Cultural, Social, and Political Thought (CSPT) and direct the Praxis Studio for Comparative Media Studies. You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca). 
 
 And my name is Madyson Huck (she / her / hers). I am a graduate student interested in Victorian periodicals, the digital humanities, and all things literary theory. I am a settler originally from Calgary, which is located on the traditional territories of the people of the Treaty 7 region in Southern Alberta. Through the course of this semester, I aim to leverage the skills from my BAs in English and Psychology, and my 5+ years of experience in the fields of mental health and leadership consulting, to support your learning. You are welcome to contact me via email with questions, or if you are eager for in-person conversation, please know I am happy to chat before / after our scheduled sessions, too.
+
+# Assignments
+
+We're back to campus during COVID-19. These are complex and overwhelming times, so we'll try to keep this course as simple as possible. 
+
+We're asking you to complete only **four assignments** this term, each **25%** of your final mark. You'll have an opportunity to **revise one** of your first three assignments to improve your grade. (Your mark can only improve with revision.)
+
+For each assignment, you will respond briefly to a prompt (available in Brightspace) through a combination of audio, images, and/or text. The prompt will ask you to examine assigned materials, with attention to detail, from a critical perspective. It will also provide you with options (choose your own adventure!) for how to respond. 
+
+Each response will be assessed based on a rubric provided in the prompt itself, and you will submit all four responses via Brightspace. (Please do not submit them via email or in print.)  
+
+This all means there are no research papers, quizzes, presentations, or discussion forums in this course. There are no exams, either. 
+
+As for scheduling, you will know 50% of your final mark by Friday, October 15th and 75% by Tuesday, November 16th. Optional revisions to one response will be due by Friday, December 3rd, and your final response to a prompt will be due by Tuesday, December 14th (during the exam period).
