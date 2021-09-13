@@ -42,9 +42,13 @@ You will receive a mark for each of the four criterion, which will be tallied (.
 
 ## What to Submit 
 
-You may submit your response to Prompt 1 via Brightspace as a PDF, DOCX, RTF, or HTML file containing 500 - 600 words, excluding an MLA-style Works Cited page, which should include any works you reference, even if you only reference one work (*Secrets*, *M00D*, or "Message"). 
+You may submit your response to Prompt 1 via Brightspace as a PDF, DOCX, RTF, or HTML file containing 500 - 600 words and an MLA-style Works Cited page, which should list any works you reference, even if you reference only one work (*Secrets*, *M00D*, or "Message"). The Works Cited page is *not* included in the word count. If you have questions about how to cite a particular work, then don't hesitate to email me. Here are citations for the three works at hand (change the access dates, if you wish): 
 
-If you decide to include media files alongside your writing, then feel free to attach them as separate JPG (image), PNG (image), TIFF (image), MP3 (audio), WAV (audio), MP4 (video), MOV (video), or PDF (document) files in Brightspace. Alternatively, you may import them into your PDF, DOCX, RTF, or HTML document and display them there. This way, you need to submit only one document.   
+* Hopkinson, Nalo. "Message in a Bottle." *Report from Planet Midnight*, PM Press, 2012, 1-26.
+* Kittaka, Marina. *Secrets Agent*. Itch.io, 2014, https://even-kei.itch.io/secrets-agent. Accessed 24 September 2021. 
+* Young-Hae Chang Heavy Industries. *THE M00D OF THE M0MENT*, 2007, https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html. Accessed 24 September 2021. 
+
+If you decide to include media files alongside your writing, then feel free to attach (or upload) them as separate JPG (image), PNG (image), TIFF (image), MP3 (audio), WAV (audio), MP4 (video), MOV (video), or PDF (document) files in Brightspace. Alternatively, you may import them into your PDF, DOCX, RTF, or HTML document and display them there. This way, you need to submit only one document.   
 
 ## When to Submit It 
 
