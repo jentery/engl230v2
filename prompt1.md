@@ -51,3 +51,91 @@ If you decide to include media files alongside your writing, then feel free to a
 Please submit your response via Brightspace by Friday, September 24th at 10:30am. 
 
 *** 
+
+## Mood 
+
+The mood of a work is about being in the world and engaging fiction. What's the work's vibe or feel? 
+
+Here are some ways to think about mood (it's probably best to focus on just one or two of them):
+
+* Describe the work as an encounter. What or whom are you encountering? Does it feel close or distant?
+* Describe the work as an atmosphere. What's the "weather" of the work?
+* Describe the work's tone. Is it serious? Playful? Vague? Direct? Presumptuous? Subtle? 
+* Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? What was felt instantly? What took some time? 
+
+Descriptions of mood prompt considerations of *distance, immediacy, intimacy, and familiarity*.
+
+## Main Content 
+
+The main content of a fiction is about its story. 
+
+Here are some ways to think about the main content (it's probably best to focus on just one or two of them):
+
+* Characters: humans, robots, nonhuman animals, mythological creatures, and even environments or parts of the environment.  
+* Setting: time, place, and location of the story. 
+* Plot: major events and what unfolds in the story; typically understood through exposition, rising action, climax, falling action, and denouement or resolution. 
+* Theme: core ideas, threads, and even morals or lessons.  
+* Conflict: between characters, events, groups, and/or environments. Conflict is the tension upon which the story relies.
+* Point of view: first-, second-, or third-person, including the camera or narrator, where perspective may be omniscient or limited. 
+
+What is interesting about the work's treatment of each or any of these? What's familiar or predictable? 
+
+Descriptions of the main content prompt considerations of *shared interpretation*, or which aspects of the work and its plot put people on the same page.
+
+## Modes 
+
+The modes of a fiction are about how it addresses or engages people's senses. 
+
+Here are some ways to think about the modes (sometimes its best to focus on just one or two modes): 
+
+* Which of the five senses (hearing, seeing, tasting, smelling, and touching) are engaged? Which are engaged more than others? 
+* How is it WOVEN? Consider Written (including reading), Oral (what’s said and heard), Visual (colour, layout, and images), Electronic (how the work transmits media, and whether it's only electronic), and Nonverbal (gesture, audio, and movement) communication in the work. (Thanks to Georgia Tech's Writing and Communication Program for this approach and the acronym, WOVEN.)
+* Are you perceiving with the work or against it? Maybe somewhere in between? What's the flow or rhythm like? 
+* Are you in control of when the work starts and stops, or how you navigate it? Do you want to be?
+
+Descriptions of mode prompt considerations of how we *attend* to fiction.
+
+## Modules 
+
+The modules of a work are about its parts, composition, and arrangement. 
+
+Here are some ways to think about modules:
+
+* Is the work available as a collection of files? If so, describe them. Consider a website, for instance. It may have HTML, CSS, and media files.
+* Describe the component parts of the work, even if they are not available as separate files. Consider podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles. 
+* Describe how "seamless" the composition appears to be, or where and when you notice the seams that knit together the work's components. What feels polished? Rough? When is it rough on purpose? 
+
+Descriptions of modules prompt considerations of the *relationships between parts and whole*.
+
+## Materials
+
+The materials are about the work as matter and physical substance: as an agent that turns this into that.  
+
+Here are some ways to think about materials (it's probably best to focus on just a few):
+
+* Presence: Can you touch or handle it?
+* Texture: Is it smooth or rough?
+* Ephemera: What about it disappears, or what's ghostly or mutable about it?
+* Visibility: What materials can you see? Not see? 
+* Audibility: Does it make a sound? What materials can you hear?
+* Packaging: Is it packaged? If so, describe the packaging.
+* Storage: Where or how is it stored? Can you handle or see the storage media? 
+* Age: How has the work aged? How might it rot, decay, or degrade? 
+* Transformation: How does it turn this into that? What is "this," and what is "that"?
+
+Descriptions of materials prompt considerations of the work as *stuff*.
+
+## Moment 
+
+Moment is about the work’s context: when, where, for whom, and by whom it was made.  
+
+Here are some ways to think about a moment (it's probably best to focus on just one or two of them):
+
+* Identify who was (or is) involved in the work. Consider who got credit and for what.
+* Identify when it was made and circulated. Consider what other kinds of work were popular at that time.
+* Describe what was happening when it was made and circulated. Consider important historical, cultural, and artistic events as well as what the authors / artists were doing at or around the time.
+* Describe where the work was made and circulated. Consider its network, geographic location, and "scene." In some cases, the network may be quite literal: a radio or tv network, for instance. In others, it may be social, including communities of authors, artists, editors, critics, or fans. 
+* Describe its reception over time. Compare its reception now with its reception then. Also consider reception across different venues or groups of people.
+* Describe what it remediates. Consider previous media, technologies, and formats that it absorbed or rendered more accessible. Also consider "skeuomorphs," or objects with functions (such as wastebaskets) that become ornamental features (like "trash" icons) in the work.
+
+Descriptions of the moment prompt considerations of *shared situations*, or which aspects of a work put people in the same space and/or time.
