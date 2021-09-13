@@ -90,7 +90,7 @@ Descriptions of the main content prompt considerations of *shared interpretation
 
 The modes of a fiction are about how it addresses or engages people's senses. 
 
-Here are some ways to think about the modes (sometimes its best to focus on just one or two modes): 
+Here are some ways to think about the modes (sometimes it's best to focus on just one or two modes): 
 
 * Which of the five senses (hearing, seeing, tasting, smelling, and touching) are engaged? Which are engaged more than others? 
 * How is it WOVEN? Consider Written (including reading), Oral (what’s said and heard), Visual (colour, layout, and images), Electronic (how the work transmits media, and whether it's only electronic), and Nonverbal (gesture, audio, and movement) communication in the work. (Thanks to Georgia Tech's Writing and Communication Program for this approach and the acronym, WOVEN.)
@@ -106,7 +106,7 @@ The modules of a work are about its parts, composition, and arrangement.
 Here are some ways to think about modules:
 
 * Is the work available as a collection of files? If so, describe them. Consider a website, for instance. It may have HTML, CSS, and media files.
-* Describe the component parts of the work, even if they are not available as separate files. Consider podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles. 
+* Describe the component parts of the work, even if they are not available as separate files. Consider podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles. (We'll talk more about comics and podcasts later in the term.)
 * Describe how "seamless" the composition appears to be, or where and when you notice the seams that knit together the work's components. What feels polished? Rough? When is it rough on purpose? 
 
 Descriptions of modules prompt considerations of the *relationships between parts and whole*.
@@ -120,8 +120,8 @@ Here are some ways to think about materials (it's probably best to focus on just
 * Presence: Can you touch or handle it?
 * Texture: Is it smooth or rough?
 * Ephemera: What about it disappears, or what's ghostly or mutable about it?
-* Visibility: What materials can you see? Not see? 
-* Audibility: Does it make a sound? What materials can you hear?
+* Visibility: Which materials can you see? Not see? 
+* Audibility: Does it make a sound? Which materials can you hear?
 * Packaging: Is it packaged? If so, describe the packaging.
 * Storage: Where or how is it stored? Can you handle or see the storage media? 
 * Age: How has the work aged? How might it rot, decay, or degrade? 
@@ -139,7 +139,7 @@ Here are some ways to think about a moment (it's probably best to focus on just 
 * Identify when it was made and circulated. Consider what other kinds of work were popular at that time.
 * Describe what was happening when it was made and circulated. Consider important historical, cultural, and artistic events as well as what the authors / artists were doing at or around the time.
 * Describe where the work was made and circulated. Consider its network, geographic location, and "scene." In some cases, the network may be quite literal: a radio or tv network, for instance. In others, it may be social, including communities of authors, artists, editors, critics, or fans. 
-* Describe its reception over time. Compare its reception now with its reception then. Also consider reception across different venues or groups of people.
+* Describe its reception over time. Compare its reception now with its reception then. Also consider reception across different venues or groups of people. What are some common comments or feelings about it? Which communities have unique comments or feelings about it? 
 * Describe what it remediates. Consider previous media, technologies, and formats that it absorbed or rendered more accessible. Also consider "skeuomorphs," or objects with functions (such as wastebaskets) that become ornamental features (like "trash" icons) in the work.
 
 Descriptions of the moment prompt considerations of *shared situations*, or which aspects of a work put people in the same space and/or time.
