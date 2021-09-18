@@ -129,7 +129,7 @@ This week should consume no more than three hours of your time outside of class.
 *Wednesday, September 15th* 
 
 * Review and comment on the lecture notes for "Why Media?" in Word 365. We'll be sure to answer your questions there. 
-* Review Prompt 1 in Brightspace and share your questions or concerns with us. A response to Prompt 1 is due next week, by Friday, September 24th. 
+* Review [Prompt 1](prompt1.html) in Brightspace and share your questions or concerns with us. A response to [Prompt 1](prompt1.html) is due next week, by Friday, September 24th. 
 * Expect a large group discussion about *THE M00D 0F THE M0MENT* and *Secrets Agent*. 
 
 *Friday, September 17th* 
@@ -152,7 +152,7 @@ This week should consume no more than five hours of your time outside of class.
 
 *Friday, September 24th* 
 
-* Submit your response to Prompt 1 via Brightspace. 
+* Submit your response to [Prompt 1](prompt1.html) via Brightspace. 
 * Expect a workshop on integrating media (audio, images, and text) into your writing and criticism. 
 
 Please note that September 21st is the last day for 100% reduction of tuition fees for standard first term and full year courses, and Friday, September 25th is the last day for adding courses that begin in the first term.
@@ -175,7 +175,7 @@ This week should consume no more than three hours of your time outside of class.
 *Friday, October 1st* 
 
 * Expect a workshop on the application of media aesthetics as a methodology.  
-* We will return marks for Prompt 1 prior to this class meeting.  
+* We will return marks for [Prompt 1](prompt1.html) prior to this class meeting.  
 
 Please note that Thursday, September 30th is National Day for Truth and Reconciliation.
 
@@ -337,7 +337,7 @@ This week should consume no more than five hours of your time outside of class.
 
 *Friday, December 3rd* 
 
-* Submit your revised response to Prompt 1, 2, or 3 (optional). 
+* Submit your revised response to Prompt [1](prompt1.html), 2, or 3 (optional). 
 * Expect a recap of what we learned this term as well as some time to complete course experience surveys.   
 * We will return marks for revised responses by Wednesday, December 8th. 
 
