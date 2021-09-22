@@ -169,7 +169,7 @@ This week should consume no more than three hours of your time outside of class.
 *Wednesday, September 29th* 
 
 * Review and comment on the lecture notes for "Media Aesthetics, Part 2" in Word 365. We'll strike up a conversation there. 
-* Review Prompt 2 in Brightspace and share your questions or concerns with us. A response to Prompt 2 is due next week, by Friday, October 10th. 
+* Review Prompt 2 in Brightspace and share your questions or concerns with us. A response to Prompt 2 is due next week, by Friday, October 8th. 
 * Expect a large group discussion of *Biidaaban (The Dawn Comes)*.   
 
 *Friday, October 1st* 
