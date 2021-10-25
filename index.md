@@ -169,7 +169,7 @@ This week should consume no more than three hours of your time outside of class.
 *Wednesday, September 29th* 
 
 * Review and comment on the lecture notes for "Media Aesthetics, Part 2" in Word 365. We'll strike up a conversation there. 
-* Review Prompt 2 in Brightspace and share your questions or concerns with us. A response to Prompt 2 is due next week, by Friday, October 8th. 
+* Review Prompt 2 in Brightspace and share your questions or concerns with us. A response to [Prompt 2](prompt2.html) is due next week, by Friday, October 8th. 
 * Expect a large group discussion of *Biidaaban (The Dawn Comes)*.   
 
 *Friday, October 1st* 
@@ -195,7 +195,7 @@ This week should consume no more than five hours of your time outside of class.
  
 *Friday, October 8th* 
 
-* Submit your response to Prompt 2 via Brightspace. 
+* Submit your response to [Prompt 2](prompt2.html) via Brightspace. 
 * Expect a workshop on integrating audio into your writing and criticism.
 
 ## Week 6 (Oct. 12, 13 + 15): Audio, Part 2 
@@ -215,7 +215,7 @@ This week should consume no more than three hours of your time outside of class.
 *Friday, October 15th* 
 
 * Expect a workshop on the analysis of audio in fiction. 
-* We will return marks for Prompt 2 by this class meeting.  
+* We will return marks for [Prompt 2](prompt2.html) by this class meeting.  
 
 Please note that Monday, October 11th is Thanksgiving Day, and Tuesday, October 12th is the last day for 50% reduction of tuition fees for standard courses.  
 
@@ -250,7 +250,7 @@ This week should consume no more than three hours of your time outside of class.
 *Wednesday, October 27th* 
 
 * Review and comment on the lecture notes for "Images, Part 2" in Word 365. We'll respond with heavily captioned panels.  
-* Review Prompt 3 in Brightspace and share your questions or concerns with us. A response to Prompt 3 is due next week, by Friday, November 5th.   
+* Review [Prompt 3](prompt3.html) in Brightspace and share your questions or concerns with us. A response to Prompt 3 is due next week, by Friday, November 5th.   
 * Expect a large group discussion of *Killing and Dying*. 
 
 *Friday, October 29th* 
@@ -275,7 +275,7 @@ This week should consume no more than five hours of your time outside of class.
 
 *Friday, November 5th* 
 
-* Submit your response to Prompt 3 via Brightspace.
+* Submit your response to [Prompt 3](prompt3.html) via Brightspace.
 * Expect a workshop on analyzing the use of text in contemporary fiction.  
 
 ## Week 10 (Nov. 9, 10, and 12): Buffering . . . 
@@ -292,7 +292,7 @@ This week should consume no more than four hours of your time outside of class.
 
 * Read excerpts of N.K. Jemisin's *The Fifth Season* (in Brightspace).
 * Expect a lecture further elaborating on the modern foundations of addressing text in fiction. 
-* We will return marks for Prompt 3 by this class meeting.
+* We will return marks for [Prompt 3](prompt3.html) by this class meeting.
 
 *Wednesday, November 17th* 
 
