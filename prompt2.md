@@ -31,7 +31,7 @@ This prompt asks you to continue practicing methods for studying what media do i
 
 ## Assessment 
 
-I will assess your response to Prompt 1 based on the following criteria: 
+I will assess your response to Prompt 2 based on the following criteria: 
 
 * Engagement with the prompt (25%): how well and to what degree the response follows the prompt 
 * Thoroughness of detail (25%): the degree to which the response describes audio in the work (*Biidaaban*, *Wires*, or *Gone Home*), through the selection of details and evidence 
