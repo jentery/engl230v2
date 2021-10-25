@@ -1,4 +1,4 @@
-This is Prompt 3 for English 230, "Contemporary Media and Fiction" (Fall 2021), at the University of Victoria. It is also available in PDF. 
+This is Prompt 3 for English 230, "Contemporary Media and Fiction" (Fall 2021), at the University of Victoria. It is also available in [PDF](prompt3.pdf). 
 
 Responses to the prompt should be submitted via the course Brightspace. Thanks! 
 
