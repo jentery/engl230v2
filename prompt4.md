@@ -42,10 +42,10 @@ I will assess your response to Prompt 4 based on the following criteria:
 
 * Engagement with the prompt (25%): how well and to what degree the response addresses this prompt 
 * Awareness (25%): how well and to what degree the response demonstrates an awareness of its audience and subject material 
-* Quality and potential (25%): the clarity, detail, precision, and overall quality of the response, plus the potential it demonstrates to educate its audience about the primary work(s) at hand (the production quality of video and adaptations do not apply here; adaptations can be rough, and video can be low resolution)
+* Quality and potential (25%): the clarity, detail, precision, and overall quality of the response, plus the potential it demonstrates to educate its audience about the primary work(s) at hand (the production quality of video and adaptations does not apply here; adaptations can be rough, and video can be low resolution)
 * Engagement with course material (25%): how well and to what degree the response engages the English 230 course material, including discussions, topics, concepts, assigned works, and the class notebook 
 
-You will receive a mark for each of the four criteria, which will be tallied (.25 x 4) to result in your mark for Prompt 4. I will send feedback to you via Brightspace. I will use [UVic's grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) for assessment, according to this rubric: "exceeds and raises expectations" (A+), "exceeds expectations" (A, A-), "exceeds some expectations" (B+), "meets expectations" (B, B-), "meets some expectations" (C+, C), "meets few expectations" (D), and "no submission." 
+You will receive a mark for each of the four criteria, which will be tallied (.25 x 4) to result in your mark for Prompt 4. I will return marks via Brightspace. I will use [UVic's grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) for assessment, according to this rubric: "exceeds and raises expectations" (A+), "exceeds expectations" (A, A-), "exceeds some expectations" (B+), "meets expectations" (B, B-), "meets some expectations" (C+, C), "meets few expectations" (D), and "no submission." 
 
 ## What to Submit 
 
